@@ -397,3 +397,7 @@ The key principle is simple:
 The LLM can communicate, but the policy engine decides.
 
 This keeps the system useful, explainable, and resistant to manipulation.
+
+## Development
+
+This project is used for development and testing purposes.
